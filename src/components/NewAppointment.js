@@ -62,7 +62,7 @@ class NewAppointment extends Component {
             <div className="card mt-5 py-5">
                 <div className="card-body">
                     <h2 className="card-title text-center mb-5"> 
-                        Fill the form for appointment
+                        Fill in the form
                     </h2>
                     {error ? <div className="alert alert-danger mt-2 mb-5 text-center">
                         All fields are necessary
