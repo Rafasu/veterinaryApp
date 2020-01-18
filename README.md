@@ -10,4 +10,4 @@ And finally run ```npm start``` <br />
 The project will start automatically. 
 
  #### Link
-* [Live Project](https://sleepy-sammet-d28348.netlify.com/) 
+* [Live Project](https://wizardly-shockley-8cc398.netlify.com) 
